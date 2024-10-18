@@ -48,13 +48,13 @@ To get started with this repository, follow these steps:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-course-practice.git
+git clone https://github.com/Kartikk-26/React-CRA-Practise.git
 ```
 
 ### 2️⃣ Navigate to the project directory
 
 ```bash
-cd react-course-practice
+cd React-CRA-Practise
 ```
 
 ### 3️⃣ Install dependencies
