@@ -113,7 +113,3 @@ Contributions are welcome! If you want to contribute, here’s how:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/-kartikjain/) to discuss this project or collaborate on future work. I’m always eager to connect with fellow developers and enthusiasts to exchange knowledge and ideas.
 
 Stay tuned for more updates as I progress through this React course!
-
---- 
-
-This version highlights your work using CRA and captures both the basic and advanced topics from your course. You can adjust the content as needed based on your personal style or additional projects.
