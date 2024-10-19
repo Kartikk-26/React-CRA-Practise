@@ -1,18 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-import About from './screens/About';
-import Contact from '../src/screens/Contact'
-import Register from './screens/Register';
+import React from 'react'
+import Register from './screens/Register'
 
-function App(){
-  return(
+function App() {
+  return (
     <div>
-      <About />
-      <Contact />
       <Register />
     </div>
   )
 }
 
-
-export default App;
+export default App
