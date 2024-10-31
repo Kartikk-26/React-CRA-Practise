@@ -54,7 +54,7 @@ function Register() {
                 <input
                     className="form-input"
                     type="password"
-                    placeholder="Enter your password"
+                    placeholder="Enter your Password"
                     value={password}
                     onChange={(e) => setPassword(e.target.value)}
                     required
